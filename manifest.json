@@ -1,0 +1,18 @@
+{
+  "name": "Xovos Turizm - Sirdaryo Sayyohlik Portali",
+  "short_name": "Xovos Turizm",
+  "description": "Sirdaryo viloyati Xovos tumani bo'ylab sayyohlik qo'llanmasi va interaktiv xarita",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fafaf9",
+  "theme_color": "#d97706",
+  "icons": [
+    {
+      "src": "/assets/aistudio/image_0a9f7777.png",
+      "sizes": "192x192 512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

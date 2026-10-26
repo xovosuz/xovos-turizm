@@ -1,0 +1,6 @@
+{
+  "name": "Xovos Turizm",
+  "description": "Sirdaryo viloyati Xovos tumani, Yangiyer, Xovosobod va Korvonsaroy bo'ylab sayyohlik qo'llanmasi, tarixiy Xovos tepaligi, masjidlar, go'zal maskanlar, interaktiv xarita va mehmonxona band qilish xizmati.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
